@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Cardona"
+  given-names: "Diogo"
+- family-names: "Alves"
+  given-names: "Rodrigo"
+title: "CMOV_Lab_5_Scheduling_in_5G_Radio_Access_Network"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2024-05-28
+url: "https://github.com/Cardona709/CMOV_Lab_5_Scheduling_in_5G_Radio_Access_Network"
