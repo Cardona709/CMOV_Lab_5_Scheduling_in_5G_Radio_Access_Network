@@ -1,0 +1,22 @@
+Flow 1 (1.0.0.2:49153 -> 7.0.0.2:1234) proto UDP
+  Tx Packets: 14600
+  Tx Bytes:   44208800
+  TxOffered:  24.224000 Mbps
+  Rx Bytes:   11906096
+  Throughput: 6.523888 Mbps
+  Mean delay:  5348.774316 ms
+  Mean jitter:  2.709308 ms
+  Rx Packets: 3932
+Flow 2 (1.0.0.2:49154 -> 7.0.0.3:1235) proto UDP
+  Tx Packets: 14600
+  Tx Bytes:   44208800
+  TxOffered:  24.224000 Mbps
+  Rx Bytes:   366388
+  Throughput: 0.200761 Mbps
+  Mean delay:  5259.737536 ms
+  Mean jitter:  85.446281 ms
+  Rx Packets: 121
+
+
+  Mean flow throughput: 3.362324
+  Mean flow delay: 5304.255926
